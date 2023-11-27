@@ -10,4 +10,6 @@ npm install
 y Posterior a eso correrá Angular desde la carpeta crud-angular con el comando:
 npm run start
 
+Al arrancar podrá localizar el proyecto en: http://localhost:4200/
+
 Y listo, tendrá la aplicación corriendo.
